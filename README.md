@@ -9,3 +9,8 @@
 <h1> Main Screen</h1> 
 <img src="main_screen.PNG" width="700" height="400">
 
+
+
+<h1> Student Sign Up </h1> 
+<img src="student_sign_up.PNG" width="700" height="400">
+
